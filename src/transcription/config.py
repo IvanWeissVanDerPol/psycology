@@ -15,7 +15,14 @@ from pathlib import Path
 from typing import Optional
 
 # Base paths - relative to project root
-PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
+# Handle both normal paths and Windows git bash paths
+_project_root = Path(__file__).parent.parent.parent
+if "C:" in str(_project_root) or "C;" in str(_project_root):
+    # Windows path with potential git bash conversion issues
+    PROJECT_ROOT = Path("C:/Users/Alejandro/Documents/Ivan/psycology")
+else:
+    PROJECT_ROOT = _project_root
+
 CONFIG_DIR = PROJECT_ROOT / "config"
 
 
