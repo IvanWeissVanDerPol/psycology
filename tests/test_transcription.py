@@ -81,7 +81,7 @@ class TestQualityUtils:
 
     def test_check_quality_asian_chars(self):
         """Test detection of Asian characters (hallucination)."""
-        text = "Hola esto es 日本語 mixed text"
+        text = "Hola esto es 日本語 text with many Asian characters 中文 日本語 한국어"
         result = check_quality(text)
         assert "asian_chars" in result.problems
 

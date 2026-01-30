@@ -1,0 +1,272 @@
+{
+  "description": "Psychological pattern extraction configuration for voice note transcripts",
+  "version": "2.0.0",
+  "categories": {
+    "sadness_depression": {
+      "description": "Expressions of sadness, depression, or low mood",
+      "priority": "high",
+      "patterns": [
+        "\\btriste\\b",
+        "\\bdeprim",
+        "\\bbajone",
+        "\\bmal\\s+(?:día|momento|onda)",
+        "\\bno\\s+(?:puedo|aguanto)",
+        "\\bme\\s+siento\\s+(?:mal|solo|vacío)",
+        "\\bllor",
+        "\\blágrima",
+        "\\bpena\\b"
+      ]
+    },
+    "anxiety_fear": {
+      "description": "Expressions of anxiety, fear, or worry",
+      "priority": "high",
+      "patterns": [
+        "\\bmiedo\\b",
+        "\\bansi",
+        "\\bnervi",
+        "\\bpreocup",
+        "\\basust",
+        "\\bpánico",
+        "\\bestres",
+        "\\bagobiad"
+      ]
+    },
+    "anger_frustration": {
+      "description": "Expressions of anger, frustration, or annoyance",
+      "priority": "medium",
+      "patterns": [
+        "\\bbroncas?\\b",
+        "\\benojad",
+        "\\bfrustr",
+        "\\bcansa(?:d[oa]|rme)",
+        "\\bharta(?:d[oa]|rme)",
+        "\\bputead",
+        "\\bcalient[ae]"
+      ]
+    },
+    "loneliness": {
+      "description": "Expressions of loneliness or isolation",
+      "priority": "high",
+      "patterns": [
+        "\\bsol[oa]\\b(?!\\s*(?:mente|que))",
+        "\\bsoledad",
+        "\\bvací[oa]",
+        "\\bnadie\\b",
+        "\\babandon",
+        "\\bextrañ"
+      ]
+    },
+    "care_giving": {
+      "description": "Offering care, help, or affection to others",
+      "priority": "medium",
+      "patterns": [
+        "\\bte\\s+(?:cuido|ayudo|preparo|hago|llevo|traigo)",
+        "\\bpara\\s+(?:vos|ti)\\b",
+        "\\bsi\\s+necesit",
+        "\\bte\\s+(?:amo|quiero|adoro)",
+        "\\bcariño\\b"
+      ]
+    },
+    "care_receiving": {
+      "description": "Receiving care, help, or gratitude",
+      "priority": "medium",
+      "patterns": [
+        "\\bme\\s+(?:cuida|ayuda|prepara|hace|lleva|trae)",
+        "\\bpara\\s+mí\\b",
+        "\\bgracias\\b",
+        "\\bte\\s+agradezco"
+      ]
+    },
+    "conflict_tension": {
+      "description": "Conflict, arguments, or relationship tension",
+      "priority": "high",
+      "patterns": [
+        "\\bpele[ao]",
+        "\\bdiscut",
+        "\\bproblema\\b",
+        "\\bconflicto",
+        "\\bmal\\s+(?:humor|onda)",
+        "\\bmolest",
+        "\\benfad",
+        "\\bse\\s+fue",
+        "\\bme\\s+dej"
+      ]
+    },
+    "neglect_abandonment": {
+      "description": "Feelings of being ignored, neglected, or abandoned",
+      "priority": "high",
+      "patterns": [
+        "\\bno\\s+(?:me\\s+)?(?:escuch|entiend|import|bola)",
+        "\\bignor",
+        "\\bdistant",
+        "\\bausent",
+        "\\bfrí[oa]\\b",
+        "\\bnada\\b.*\\b(?:hizo|dijo|pasó)"
+      ]
+    },
+    "physical_affection": {
+      "description": "Physical touch, affection, or intimacy",
+      "priority": "high",
+      "patterns": [
+        "\\babraz",
+        "\\bbes[oa]",
+        "\\bcaricia",
+        "\\bcuddle",
+        "\\bmimito",
+        "\\btoque",
+        "\\bcontacto",
+        "\\bcalentit",
+        "\\bjunt[oa]s\\b",
+        "\\bacurru",
+        "\\bpelo\\b",
+        "\\bcabeza\\b"
+      ]
+    },
+    "physical_needs": {
+      "description": "Expressing need for physical affection or touch",
+      "priority": "high",
+      "patterns": [
+        "\\bnecesit.*(?:abrazo|toque|contacto)",
+        "\\bquiero.*(?:abrazo|estar\\s+cerca)",
+        "\\bfalta.*(?:cariño|afecto|contacto)"
+      ]
+    },
+    "illness_medical": {
+      "description": "Illness, medical issues, or health concerns",
+      "priority": "medium",
+      "patterns": [
+        "\\benferm",
+        "\\bhospital",
+        "\\bmédic",
+        "\\bdolor\\b",
+        "\\bfiebre",
+        "\\bremedio",
+        "\\bpastilla",
+        "\\boperación",
+        "\\bfístula",
+        "\\bcirugía"
+      ]
+    },
+    "asking_for_help": {
+      "description": "Requests for help or assistance",
+      "priority": "medium",
+      "patterns": [
+        "\\bme\\s+(?:ayud|pod[eé]s)",
+        "\\bnecesito\\s+(?:que|ayuda)",
+        "\\bpor\\s+favor\\b",
+        "\\bte\\s+pido"
+      ]
+    },
+    "offering_help": {
+      "description": "Offering help or support",
+      "priority": "medium",
+      "patterns": [
+        "\\bte\\s+(?:ayudo|puedo)",
+        "\\bsi\\s+necesit",
+        "\\bavís[ae]me",
+        "\\bcuent[ae]\\s+conmigo"
+      ]
+    },
+    "deflection_minimizing": {
+      "description": "Minimizing problems or deflecting concern",
+      "priority": "medium",
+      "patterns": [
+        "\\bno\\s+(?:pasa\\s+nada|importa|te\\s+preocup)",
+        "\\btranqui",
+        "\\bchill\\b",
+        "\\brelax\\b",
+        "\\bestoy\\s+bien",
+        "\\btodo\\s+bien"
+      ]
+    },
+    "self_deprecation": {
+      "description": "Self-criticism or negative self-talk",
+      "priority": "high",
+      "patterns": [
+        "\\bsoy\\s+(?:un[ao]?\\s+)?(?:tont|estúpid|idiota|imbécil)",
+        "\\bperd[oó]n\\b",
+        "\\bsorry\\b",
+        "\\bdisculp",
+        "\\bmi\\s+culpa",
+        "\\bmal[oa]\\s+(?:persona|pareja|amig)"
+      ]
+    },
+    "self_reflection": {
+      "description": "Self-awareness, insight, or personal growth",
+      "priority": "high",
+      "patterns": [
+        "\\bme\\s+d[ií]\\s+cuenta",
+        "\\bentend[ií]",
+        "\\brealizé",
+        "\\bsiempre\\s+(?:hago|soy|estoy)",
+        "\\bmi\\s+(?:problema|issue)",
+        "\\btrauma",
+        "\\bpatrón"
+      ]
+    },
+    "family_references": {
+      "description": "References to family members or childhood",
+      "priority": "medium",
+      "patterns": [
+        "\\bmi\\s+(?:mamá|papá|vieja|viejo|madre|padre)",
+        "\\bmis\\s+(?:padres|viejos|hermano)",
+        "\\bfamilia\\b",
+        "\\bde\\s+(?:chico|pequeño|niño)"
+      ]
+    },
+    "wants_needs_expressed": {
+      "description": "Expressing desires, wants, or needs",
+      "priority": "high",
+      "patterns": [
+        "\\bquiero\\s+(?:que|ser|estar|tener)",
+        "\\bnecesito\\s+(?:que|ser|estar|tener)",
+        "\\bme\\s+(?:gustaría|encantaría)",
+        "\\bojalá\\b",
+        "\\bdeseo\\b"
+      ]
+    },
+    "relationship_positive": {
+      "description": "Positive relationship expressions",
+      "priority": "medium",
+      "patterns": [
+        "\\bte\\s+(?:amo|quiero|adoro)",
+        "\\bfeli[zc]",
+        "\\bhermoso",
+        "\\blindo",
+        "\\bbonito",
+        "\\bmejor\\s+(?:cosa|momento|día)"
+      ]
+    },
+    "relationship_negative": {
+      "description": "Negative relationship expressions or breakup talk",
+      "priority": "high",
+      "patterns": [
+        "\\bterminar",
+        "\\bseparar",
+        "\\bdej[ao]r",
+        "\\bno\\s+(?:funciona|aguanto|puedo\\s+más)",
+        "\\bcansad[oa]\\s+de",
+        "\\bharton?"
+      ]
+    }
+  },
+  "high_value_categories": [
+    "sadness_depression",
+    "loneliness",
+    "physical_affection",
+    "physical_needs",
+    "illness_medical",
+    "neglect_abandonment",
+    "conflict_tension",
+    "self_reflection",
+    "family_references",
+    "wants_needs_expressed"
+  ],
+  "settings": {
+    "context_chars": 150,
+    "min_findings_per_category": 2,
+    "max_examples_per_category": 5,
+    "quality_min_words": 10,
+    "quality_unique_word_ratio": 0.25
+  }
+}
