@@ -1,0 +1,1162 @@
+{
+  "generated_at": "2026-01-30T18:59:49.025013",
+  "analysis_type": "integrated_psychological_analysis",
+  "temporal_analysis": {
+    "escalation_periods": [
+      {
+        "week": "2023-W31",
+        "total_patterns": 20,
+        "categories": {
+          "communication_difficulty": 18,
+          "sadness": 1,
+          "physical_affection": 1
+        }
+      },
+      {
+        "week": "2023-W32",
+        "total_patterns": 10,
+        "categories": {
+          "communication_difficulty": 9,
+          "sadness": 1
+        }
+      },
+      {
+        "week": "2023-W37",
+        "total_patterns": 11,
+        "categories": {
+          "communication_difficulty": 7,
+          "sadness": 2,
+          "physical_affection": 2
+        }
+      },
+      {
+        "week": "2023-W38",
+        "total_patterns": 16,
+        "categories": {
+          "sadness": 1,
+          "communication_difficulty": 13,
+          "physical_affection": 2
+        }
+      },
+      {
+        "week": "2023-W40",
+        "total_patterns": 7,
+        "categories": {
+          "communication_difficulty": 6,
+          "sadness": 1
+        }
+      },
+      {
+        "week": "2023-W42",
+        "total_patterns": 12,
+        "categories": {
+          "communication_difficulty": 10,
+          "physical_affection": 2
+        }
+      },
+      {
+        "week": "2023-W44",
+        "total_patterns": 12,
+        "categories": {
+          "communication_difficulty": 9,
+          "physical_affection": 1,
+          "sadness": 2
+        }
+      },
+      {
+        "week": "2023-W45",
+        "total_patterns": 28,
+        "categories": {
+          "physical_affection": 4,
+          "communication_difficulty": 22,
+          "sadness": 2
+        }
+      },
+      {
+        "week": "2023-W46",
+        "total_patterns": 7,
+        "categories": {
+          "sadness": 2,
+          "communication_difficulty": 3,
+          "physical_affection": 2
+        }
+      },
+      {
+        "week": "2023-W47",
+        "total_patterns": 7,
+        "categories": {
+          "communication_difficulty": 6,
+          "physical_affection": 1
+        }
+      }
+    ],
+    "weekly_pattern_summary": {
+      "2023-W33": {
+        "communication_difficulty": 2
+      },
+      "2023-W50": {
+        "sadness": 1,
+        "communication_difficulty": 14
+      },
+      "2025-W48": {
+        "communication_difficulty": 13,
+        "physical_affection": 1
+      },
+      "2025-W02": {
+        "communication_difficulty": 19,
+        "sadness": 1,
+        "physical_affection": 1
+      },
+      "2025-W06": {
+        "communication_difficulty": 7,
+        "physical_affection": 2,
+        "sadness": 1
+      },
+      "2025-W12": {
+        "physical_affection": 1,
+        "communication_difficulty": 9,
+        "sadness": 1
+      },
+      "2025-W14": {
+        "physical_affection": 2,
+        "communication_difficulty": 18,
+        "sadness": 3
+      },
+      "2025-W33": {
+        "communication_difficulty": 82,
+        "physical_affection": 17,
+        "sadness": 5
+      },
+      "2025-W34": {
+        "communication_difficulty": 40,
+        "physical_affection": 5
+      },
+      "2025-W35": {
+        "communication_difficulty": 20,
+        "sadness": 1
+      },
+      "2025-W36": {
+        "communication_difficulty": 18
+      },
+      "2025-W37": {
+        "communication_difficulty": 27,
+        "sadness": 1,
+        "physical_affection": 1
+      },
+      "2025-W38": {
+        "sadness": 1,
+        "communication_difficulty": 5
+      },
+      "2025-W39": {
+        "physical_affection": 3,
+        "communication_difficulty": 21
+      },
+      "2025-W40": {
+        "communication_difficulty": 41,
+        "physical_affection": 5
+      },
+      "2025-W41": {
+        "physical_affection": 8,
+        "communication_difficulty": 59,
+        "sadness": 7
+      },
+      "2025-W42": {
+        "physical_affection": 9,
+        "communication_difficulty": 40,
+        "sadness": 8
+      },
+      "2025-W43": {
+        "sadness": 9,
+        "communication_difficulty": 51,
+        "physical_affection": 21
+      },
+      "2025-W44": {
+        "communication_difficulty": 55,
+        "physical_affection": 3,
+        "sadness": 1
+      },
+      "2025-W45": {
+        "communication_difficulty": 70,
+        "sadness": 6,
+        "physical_affection": 15
+      },
+      "2025-W46": {
+        "communication_difficulty": 65,
+        "sadness": 10,
+        "physical_affection": 2
+      },
+      "2025-W47": {
+        "physical_affection": 6,
+        "communication_difficulty": 40,
+        "sadness": 5
+      },
+      "2025-W50": {
+        "communication_difficulty": 14
+      },
+      "2025-W51": {
+        "communication_difficulty": 39,
+        "physical_affection": 5,
+        "sadness": 1
+      },
+      "2025-W52": {
+        "communication_difficulty": 11,
+        "sadness": 1
+      },
+      "2026-W00": {
+        "communication_difficulty": 2
+      },
+      "2026-W01": {
+        "communication_difficulty": 14,
+        "sadness": 2,
+        "physical_affection": 6
+      },
+      "2026-W04": {
+        "physical_affection": 1,
+        "communication_difficulty": 3,
+        "sadness": 1
+      },
+      "2024-W10": {
+        "communication_difficulty": 9,
+        "physical_affection": 4
+      },
+      "2024-W11": {
+        "sadness": 1,
+        "communication_difficulty": 5,
+        "physical_affection": 1
+      },
+      "2024-W14": {
+        "communication_difficulty": 11,
+        "physical_affection": 4,
+        "sadness": 3
+      },
+      "2024-W25": {
+        "communication_difficulty": 50,
+        "sadness": 6,
+        "physical_affection": 7
+      },
+      "2024-W33": {
+        "communication_difficulty": 9,
+        "physical_affection": 3,
+        "sadness": 1
+      },
+      "2024-W38": {
+        "communication_difficulty": 3,
+        "sadness": 1
+      },
+      "2025-W13": {
+        "communication_difficulty": 15,
+        "physical_affection": 1,
+        "sadness": 1
+      },
+      "2025-W15": {
+        "communication_difficulty": 12,
+        "physical_affection": 1,
+        "sadness": 2
+      },
+      "2025-W16": {
+        "communication_difficulty": 6,
+        "physical_affection": 1,
+        "sadness": 1
+      },
+      "2025-W17": {
+        "communication_difficulty": 9,
+        "sadness": 1
+      },
+      "2025-W18": {
+        "communication_difficulty": 16,
+        "physical_affection": 1
+      },
+      "2025-W22": {
+        "communication_difficulty": 2
+      },
+      "2025-W28": {
+        "communication_difficulty": 10,
+        "sadness": 1
+      },
+      "2025-W29": {
+        "communication_difficulty": 6
+      },
+      "2025-W30": {
+        "sadness": 5,
+        "physical_affection": 15,
+        "communication_difficulty": 40
+      },
+      "2025-W31": {
+        "communication_difficulty": 57,
+        "physical_affection": 2,
+        "sadness": 2
+      },
+      "2025-W32": {
+        "communication_difficulty": 20,
+        "physical_affection": 3,
+        "sadness": 1
+      },
+      "2025-W49": {
+        "sadness": 2,
+        "communication_difficulty": 16,
+        "physical_affection": 1
+      },
+      "2026-W02": {
+        "physical_affection": 1,
+        "communication_difficulty": 8
+      },
+      "2026-W03": {
+        "physical_affection": 1,
+        "communication_difficulty": 7,
+        "sadness": 1
+      },
+      "2023-W47": {
+        "communication_difficulty": 6,
+        "physical_affection": 1
+      },
+      "2023-W48": {
+        "physical_affection": 1,
+        "communication_difficulty": 24,
+        "sadness": 3
+      },
+      "2023-W49": {
+        "communication_difficulty": 25,
+        "physical_affection": 3,
+        "sadness": 2
+      },
+      "2023-W51": {
+        "communication_difficulty": 7,
+        "sadness": 2
+      },
+      "2023-W52": {
+        "communication_difficulty": 5
+      },
+      "2024-W00": {
+        "communication_difficulty": 13,
+        "physical_affection": 2
+      },
+      "2024-W01": {
+        "communication_difficulty": 1
+      },
+      "2024-W02": {
+        "communication_difficulty": 12,
+        "physical_affection": 1
+      },
+      "2024-W03": {
+        "communication_difficulty": 7,
+        "physical_affection": 1
+      },
+      "2024-W04": {
+        "communication_difficulty": 2,
+        "sadness": 2,
+        "physical_affection": 2
+      },
+      "2024-W05": {
+        "communication_difficulty": 2
+      },
+      "2024-W06": {
+        "communication_difficulty": 2
+      },
+      "2024-W07": {
+        "communication_difficulty": 3,
+        "physical_affection": 1
+      },
+      "2024-W08": {
+        "communication_difficulty": 5
+      },
+      "2024-W09": {
+        "communication_difficulty": 5
+      },
+      "2024-W12": {
+        "communication_difficulty": 5,
+        "physical_affection": 2
+      },
+      "2024-W13": {
+        "communication_difficulty": 2,
+        "physical_affection": 3
+      },
+      "2024-W15": {
+        "communication_difficulty": 16,
+        "physical_affection": 2,
+        "sadness": 1
+      },
+      "2024-W16": {
+        "physical_affection": 3,
+        "communication_difficulty": 10
+      },
+      "2024-W17": {
+        "communication_difficulty": 5,
+        "physical_affection": 2
+      },
+      "2024-W18": {
+        "communication_difficulty": 6
+      },
+      "2024-W19": {
+        "communication_difficulty": 1
+      },
+      "2024-W20": {
+        "physical_affection": 1,
+        "communication_difficulty": 3
+      },
+      "2024-W21": {
+        "communication_difficulty": 13,
+        "physical_affection": 1,
+        "sadness": 2
+      },
+      "2024-W22": {
+        "communication_difficulty": 6,
+        "sadness": 1
+      },
+      "2024-W23": {
+        "physical_affection": 6,
+        "communication_difficulty": 19,
+        "sadness": 3
+      },
+      "2024-W24": {
+        "communication_difficulty": 30,
+        "physical_affection": 6,
+        "sadness": 2
+      },
+      "2024-W26": {
+        "communication_difficulty": 8,
+        "sadness": 2,
+        "physical_affection": 3
+      },
+      "2024-W27": {
+        "communication_difficulty": 3,
+        "sadness": 1
+      },
+      "2024-W28": {
+        "communication_difficulty": 3,
+        "physical_affection": 1
+      },
+      "2024-W29": {
+        "communication_difficulty": 1,
+        "physical_affection": 1
+      },
+      "2024-W30": {
+        "communication_difficulty": 2
+      },
+      "2024-W31": {
+        "communication_difficulty": 2
+      },
+      "2024-W32": {
+        "communication_difficulty": 1,
+        "physical_affection": 1
+      },
+      "2024-W34": {
+        "communication_difficulty": 2,
+        "physical_affection": 2
+      },
+      "2024-W35": {
+        "communication_difficulty": 6,
+        "physical_affection": 1
+      },
+      "2024-W36": {
+        "communication_difficulty": 3
+      },
+      "2024-W39": {
+        "communication_difficulty": 2
+      },
+      "2024-W40": {
+        "communication_difficulty": 2
+      },
+      "2024-W41": {
+        "physical_affection": 2,
+        "sadness": 1,
+        "communication_difficulty": 3
+      },
+      "2024-W42": {
+        "communication_difficulty": 7,
+        "sadness": 2
+      },
+      "2024-W44": {
+        "communication_difficulty": 2,
+        "sadness": 1
+      },
+      "2024-W45": {
+        "physical_affection": 1
+      },
+      "2024-W46": {
+        "communication_difficulty": 5
+      },
+      "2024-W47": {
+        "communication_difficulty": 3,
+        "sadness": 1
+      },
+      "2024-W49": {
+        "communication_difficulty": 1
+      },
+      "2024-W50": {
+        "communication_difficulty": 6
+      },
+      "2024-W51": {
+        "sadness": 1,
+        "communication_difficulty": 4,
+        "physical_affection": 1
+      },
+      "2024-W52": {
+        "communication_difficulty": 1
+      },
+      "2025-W01": {
+        "communication_difficulty": 2
+      },
+      "2025-W03": {
+        "communication_difficulty": 24,
+        "sadness": 1,
+        "physical_affection": 1
+      },
+      "2025-W04": {
+        "communication_difficulty": 6,
+        "physical_affection": 2,
+        "sadness": 1
+      },
+      "2025-W05": {
+        "communication_difficulty": 6,
+        "physical_affection": 1
+      },
+      "2025-W07": {
+        "communication_difficulty": 14,
+        "physical_affection": 2,
+        "sadness": 4
+      },
+      "2025-W08": {
+        "communication_difficulty": 8,
+        "sadness": 2,
+        "physical_affection": 1
+      },
+      "2025-W09": {
+        "communication_difficulty": 10,
+        "sadness": 1,
+        "physical_affection": 1
+      },
+      "2025-W10": {
+        "sadness": 5,
+        "communication_difficulty": 16,
+        "physical_affection": 1
+      },
+      "2025-W11": {
+        "communication_difficulty": 26,
+        "physical_affection": 3,
+        "sadness": 4
+      },
+      "2025-W20": {
+        "communication_difficulty": 4,
+        "physical_affection": 1
+      },
+      "2025-W21": {
+        "communication_difficulty": 1,
+        "sadness": 1
+      },
+      "2025-W23": {
+        "communication_difficulty": 42,
+        "sadness": 4,
+        "physical_affection": 5
+      },
+      "2025-W24": {
+        "sadness": 2,
+        "communication_difficulty": 15,
+        "physical_affection": 1
+      },
+      "2025-W25": {
+        "sadness": 2,
+        "communication_difficulty": 2
+      },
+      "2025-W26": {
+        "communication_difficulty": 1
+      },
+      "2023-W31": {
+        "communication_difficulty": 18,
+        "sadness": 1,
+        "physical_affection": 1
+      },
+      "2023-W32": {
+        "communication_difficulty": 9,
+        "sadness": 1
+      },
+      "2023-W35": {
+        "communication_difficulty": 3
+      },
+      "2023-W36": {
+        "communication_difficulty": 4
+      },
+      "2023-W37": {
+        "communication_difficulty": 7,
+        "sadness": 2,
+        "physical_affection": 2
+      },
+      "2023-W38": {
+        "sadness": 1,
+        "communication_difficulty": 13,
+        "physical_affection": 2
+      },
+      "2023-W39": {
+        "communication_difficulty": 3
+      },
+      "2023-W40": {
+        "communication_difficulty": 6,
+        "sadness": 1
+      },
+      "2023-W42": {
+        "communication_difficulty": 10,
+        "physical_affection": 2
+      },
+      "2023-W43": {
+        "communication_difficulty": 2,
+        "physical_affection": 1
+      },
+      "2023-W44": {
+        "communication_difficulty": 9,
+        "physical_affection": 1,
+        "sadness": 2
+      },
+      "2023-W45": {
+        "physical_affection": 4,
+        "communication_difficulty": 22,
+        "sadness": 2
+      },
+      "2023-W46": {
+        "sadness": 2,
+        "communication_difficulty": 3,
+        "physical_affection": 2
+      }
+    }
+  },
+  "cross_chat_analysis": {
+    "by_relationship_type": {
+      "balanced_friend": {
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "breakthrough_friend": {
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "kink_community": {
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "physical_affection": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "help_exchange": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "male_friend": {
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "physical_affection": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "help_exchange": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "romantic_partner": {
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "physical_affection": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "help_exchange": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "fwb": {
+        "help_exchange": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "physical_affection": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      },
+      "university_friend": {
+        "help_exchange": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "communication_difficulty": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "physical_affection": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        },
+        "sadness": {
+          "avg": 1.0,
+          "min": 1,
+          "max": 1,
+          "count": 1
+        }
+      }
+    },
+    "correlation_matrix": {
+      "help_exchange": {
+        "communication_difficulty": 5,
+        "sadness": 5,
+        "physical_affection": 5
+      },
+      "communication_difficulty": {
+        "help_exchange": 5,
+        "sadness": 6,
+        "physical_affection": 5
+      },
+      "sadness": {
+        "help_exchange": 5,
+        "communication_difficulty": 6,
+        "physical_affection": 5
+      },
+      "physical_affection": {
+        "help_exchange": 5,
+        "communication_difficulty": 5,
+        "sadness": 5
+      }
+    }
+  },
+  "predictive_indicators": {
+    "risk_assessments": [],
+    "pattern_sequences": [
+      {
+        "date": "2023-11-27",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2023-12-04",
+        "type": "high_activity",
+        "total_patterns": 15,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2024-06-21",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2024-06-23",
+        "type": "high_activity",
+        "total_patterns": 15,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2024-06-24",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2024-06-29",
+        "type": "high_activity",
+        "total_patterns": 24,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-03-20",
+        "type": "high_activity",
+        "total_patterns": 13,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-04-12",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-05-06",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-06-09",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-06-14",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-06-16",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-07-29",
+        "type": "high_activity",
+        "total_patterns": 19,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-07-30",
+        "type": "high_activity",
+        "total_patterns": 16,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-07-31",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-05",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-06",
+        "type": "high_activity",
+        "total_patterns": 27,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-08",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-13",
+        "type": "high_activity",
+        "total_patterns": 13,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-17",
+        "type": "high_activity",
+        "total_patterns": 19,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-18",
+        "type": "high_activity",
+        "total_patterns": 37,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-21",
+        "type": "high_activity",
+        "total_patterns": 14,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-23",
+        "type": "high_activity",
+        "total_patterns": 24,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-26",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-08-28",
+        "type": "high_activity",
+        "total_patterns": 16,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-09-15",
+        "type": "high_activity",
+        "total_patterns": 14,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-02",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-07",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-10",
+        "type": "high_activity",
+        "total_patterns": 14,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-14",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-15",
+        "type": "high_activity",
+        "total_patterns": 21,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-18",
+        "type": "high_activity",
+        "total_patterns": 16,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-20",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-21",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-24",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-25",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-26",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-27",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-28",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-29",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-10-30",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-01",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-02",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-03",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-04",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-09",
+        "type": "high_activity",
+        "total_patterns": 44,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-11",
+        "type": "high_activity",
+        "total_patterns": 12,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-12",
+        "type": "high_activity",
+        "total_patterns": 17,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-16",
+        "type": "high_activity",
+        "total_patterns": 27,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-18",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-21",
+        "type": "high_activity",
+        "total_patterns": 15,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-25",
+        "type": "high_activity",
+        "total_patterns": 13,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-26",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-28",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-12-24",
+        "type": "high_activity",
+        "total_patterns": 23,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2026-01-05",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      }
+    ]
+  },
+  "questionnaire_integration": {
+    "cross_references": [
+      {
+        "pattern": "The Fixer",
+        "questionnaire_claimed": false,
+        "voice_evidence_count": 0,
+        "consistency": "partial"
+      },
+      {
+        "pattern": "Communication Difficulty",
+        "questionnaire_claimed": true,
+        "voice_evidence": 1675,
+        "consistency": "confirmed"
+      }
+    ],
+    "consistency_score": 0.5
+  },
+  "summary": {
+    "total_chats_analyzed": 7,
+    "total_escalation_periods": 92,
+    "high_risk_chats": 0,
+    "questionnaire_consistency": "partial"
+  }
+}
