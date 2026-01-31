@@ -71,6 +71,187 @@ Aftercare serves a critical function in your psychological architecture: it prov
 
 ---
 
+## 1b. Shibari Aftercare with Nico (Neko-Specific)
+
+*Tailored protocols for rope sessions with your rigger*
+
+### Why Shibari Aftercare Matters for You
+
+Shibari is particularly significant because it combines:
+- **Physical containment** → nervous system regulation
+- **Forced receiving** → you literally can't fix anything while tied
+- **Touch starvation healing** → extended, intentional touch
+- **Permission structure** → the ropes give permission for Neko to exist
+- **Trust embodiment** → vulnerability made physical
+
+### Immediate Post-Untying (0-15 minutes)
+
+**Physical:**
+- Don't rush the untying—savor the last contact
+- Stay horizontal or supported while circulation returns
+- Nico's hands stay on you during and after untying (continuity of touch)
+- Check rope marks together (this can be grounding and connective)
+- Warmth: blanket or body heat immediately after ropes come off
+
+**The "Still Held" Transition:**
+- Even without ropes, Neko is still held
+- Nico's hands replace the ropes—on shoulders, head, back
+- Verbal bridge: "The ropes are off but I've still got you"
+- Head in Nico's lap (you explicitly love this)
+- Hair playing begins (you named this as a specific need: "juga con mi pelo uwuw")
+
+**Verbal Anchors (What Works for You):**
+- "Such a good boy"
+- "Good Neko"
+- "You did so well"
+- "I've got you"
+- Recognition of what you endured/surrendered
+
+### Grounding the Neko State (15-45 minutes)
+
+**Physical Comfort Menu:**
+- Head in lap + hair stroking (your stated preference)
+- Weighted pressure on chest or back
+- Slow, firm strokes along arms/back
+- Temperature regulation (warm tea, blanket)
+- Gentle joint movement (after restriction)
+
+**The Anti-Fixer Protocol (Nico Version):**
+- If you start to get up to help with ropes/cleanup → "Stay, Neko"
+- If you offer to get water/snacks → "I'll get that. You rest"
+- If you start problem-solving → "Not yet. Just be here"
+- Your one job: **receive**
+
+**Verbal Processing (Optional):**
+- Only if YOU initiate
+- Nico asks simple questions: "What was good?" not "How do you feel?"
+- No pressure to articulate—sounds and "uwu" count
+- Appreciation exchange: what you both enjoyed
+
+### Specific Shibari Considerations
+
+**Circulation Check:**
+- Gentle movement of fingers/toes
+- Nico checks mark coloring (part of care ritual)
+- Any numbness or tingling addressed with gentle massage
+
+**Position Recovery:**
+- If you were in challenging positions: gentle stretching
+- Shoulders especially (common tension point for you)
+- Nico can guide this: "Let me move your arm slowly"
+
+**Mark Appreciation (If Desired):**
+- Looking at rope marks together can be bonding
+- "Look what we did" / "You held that so well"
+- Photos if that's part of your practice (grounding through documentation)
+
+### Neko-Specific Aftercare Needs
+
+Based on your psychological profile:
+
+| Need | Why It Matters | How Nico Can Provide |
+|------|----------------|---------------------|
+| Explicit recognition | Counters "pesado" wound | "Such a good boy", praise |
+| Physical touch without asking | Addresses touch starvation | Hair, holding, lap time |
+| Permission to stay soft | Brahm/Neko needs scaffolding | "Stay in Neko space" |
+| Not being useful | Fixer needs to rest | "I don't need anything from you" |
+| Presence without performance | The Mask can stay off | Silence is okay, "uwu" is enough |
+
+### Transition Out of Neko Space
+
+**When You're Ready (Not Before):**
+- Gradual shift, not abrupt
+- A ritual phrase: "Coming back now" or "Hi, it's Ivan"
+- Nico acknowledges the shift: "Welcome back"
+- Gentle activity: sitting up, drinking water, conversation
+
+**Signs You're Not Ready Yet:**
+- Still nonverbal or only "uwu"
+- Flinching at "real world" topics
+- Eyes still soft/unfocused
+- Wanting more touch
+
+**If Nico Needs to Leave:**
+- Clear communication: "I need to [X] in 30 minutes"
+- Helps you transition before that deadline
+- Check-in plan established: "Text me in an hour?"
+- You're not abandoned—schedule is just shifting
+
+### Next-Day Aftercare
+
+**Nico Check-In:**
+- Simple text: "How are you feeling today, Neko?"
+- No pressure to be profound
+- Your response can be "uwu" or "good" or emoji
+
+**Your Self-Check:**
+- [ ] Any drop feelings? (sadness, emptiness, doubt)
+- [ ] Physical: marks healing okay? Any soreness?
+- [ ] Emotionally: do I want more connection or space?
+- [ ] Is the Fixer trying to take over today?
+
+**Drop Prevention:**
+- If lonely/sad → this is drop, not truth
+- Reach out to Nico or safe person
+- Remind yourself: "The connection was real. This feeling is chemistry."
+- Self-care basics: eat, water, move, rest
+
+### Communication Scripts for Nico
+
+**Before Session:**
+- "Today I'm feeling [X], might need extra aftercare"
+- "I want to try staying in Neko space longer after"
+- "Check in on me tomorrow?"
+
+**During Aftercare:**
+- "More hair please uwu"
+- "Can you stay a bit longer?"
+- "Just need to be held"
+- "I'm not ready to talk yet"
+
+**After:**
+- "Thank you for [specific thing]"
+- "I felt really [held/safe/seen]"
+- "That [position/tie/moment] was really good"
+
+### Red Flags to Watch Together
+
+**For Nico to Notice:**
+- You start taking care of him immediately after (Fixer overriding aftercare)
+- You minimize your needs ("I'm fine, don't worry")
+- You rush to get dressed/leave
+- You go into problem-solving mode too fast
+- Information Firewall goes up (vague answers, topic changes)
+
+**For You to Notice:**
+- Feeling like you're "too much" for wanting aftercare
+- Guilt about Nico spending time on you
+- Urge to prove you're "fine"
+- Dismissing your own needs as unnecessary
+- Not texting next day because you don't want to "bother"
+
+### The Mutual Care Dynamic
+
+Nico has his own needs too (he mentioned reciprocity triggers). Healthy aftercare includes:
+
+**For You:**
+- Receiving fully (this IS reciprocity—it gives Nico purpose)
+- Genuine appreciation (not performative, but real)
+- Later: cooking/service from a full cup, not depleted one
+
+**For Nico:**
+- Knowing his rigging was valued
+- Seeing you relaxed and cared for (rigger satisfaction)
+- Hearing what worked (helps him improve)
+- The meal you cook later (your service language, his receiving)
+
+**The Balance:**
+- Aftercare is NOT the time for you to give back
+- Your receiving IS the gift in that moment
+- Later reciprocity (cooking, connection) comes from overflow, not obligation
+
+---
+
 ## 2. Therapy Session Aftercare
 
 ### Immediate Post-Session (0-60 minutes)
