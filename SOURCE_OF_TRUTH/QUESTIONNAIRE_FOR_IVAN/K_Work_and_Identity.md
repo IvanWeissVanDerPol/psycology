@@ -21,6 +21,27 @@
 3. What's your relationship with your work identity vs. your emotional identity?
    **Draft Answer:** They are completely separate. Work Ivan (Engineer) is efficient, loud, confident. Emotional Ivan (Brahm) is quiet, needy, hidden. I don't let them meet because I'm afraid Engineer Ivan would judge Brahm for being "useless."
 
+4. **Identity Contrast - Ivan vs. "Typical Paraguayan Man"**
+
+   **Ivan's Self-Description:**
+   > "Heteros in Paraguay are horrible. No hygiene, no care, no cuddles, no respect, no communication, lots of lies and bad vibes. Don't cook, don't clean, don't do anything more than drinking and sports and wasting time.
+   >
+   > I do the opposite of all of this. I am told I am handsome. I come from middle upper class (I don't care about money, I use it for making people around me nice and to share things)."
+
+   **Analysis:**
+   - **Hygiene & Care:** Explicitly values cleanliness, nurturing, physical affection
+   - **Domestic Competence:** Cooks, cleans, manages household (complete opposite of stereotype)
+   - **Communication:** Values respectful, honest communication
+   - **Money Philosophy:** Middle-upper class background but uses money for service/sharing, not status
+   - **Physical Identity:** "Handsome" - positive self-image regarding appearance
+   - **The Contrast as Identity:** Being "not like other guys" is central to self-concept
+
+   **Clinical Note:** This contrast serves multiple functions:
+   1. Justifies The Fixer behavior ("I actually help unlike other men")
+   2. Explains service-giving ("I'm different/better")
+   3. Reinforces self-worth through comparison
+   4. May create pressure to maintain "perfect partner" image
+
 ---
 
 ### K2. AI Interest
