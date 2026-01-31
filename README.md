@@ -46,9 +46,15 @@ psycology/
 │       └── COMPLETE_PREFERENCES.md
 │
 ├── TREATMENT/
+│   ├── CLINICAL_SUMMARY.md        # Comprehensive clinical documentation
+│   ├── QUICK_REFERENCE_CLINICAL.md # Session-at-a-glance guide
+│   ├── TREATMENT_ROADMAP.md       # Phase-by-phase intervention plan
+│   ├── CASE_CONCEPTUALIZATION.md  # Theoretical framework
+│   ├── THERAPIST_GUIDE.md         # Working effectively with Ivan
+│   ├── PROGRESS_TRACKING.md       # Measurable outcome tracking
 │   ├── goals/                     # Treatment targets
 │   │   └── TREATMENT_GOALS.md
-│   └── progress/                  # Future progress tracking
+│   └── progress/                  # Progress tracking templates
 │
 └── QUICK_REFERENCE/
     ├── FOR_CLINICIANS.md          # Quick ref for therapists
@@ -61,10 +67,15 @@ psycology/
 
 | If You Are... | Start Here |
 |---------------|-----------|
-| A therapist | [Quick Reference for Clinicians](QUICK_REFERENCE/FOR_CLINICIANS.md) |
+| A therapist (new to case) | [Clinical Summary](TREATMENT/CLINICAL_SUMMARY.md) |
+| A therapist (in session) | [Quick Reference Clinical](TREATMENT/QUICK_REFERENCE_CLINICAL.md) |
+| A therapist (planning treatment) | [Treatment Roadmap](TREATMENT/TREATMENT_ROADMAP.md) |
+| A therapist (understanding theory) | [Case Conceptualization](TREATMENT/CASE_CONCEPTUALIZATION.md) |
+| A therapist (tracking progress) | [Progress Tracking](TREATMENT/PROGRESS_TRACKING.md) |
 | A partner/intimate | [Quick Reference for Partners](QUICK_REFERENCE/FOR_PARTNERS.md) |
 | Ivan (reviewing) | [Master Profile](SOURCE_OF_TRUTH/MASTER_PROFILE.md) |
 | Deep diving | [Core Wounds](CORE_PSYCHOLOGY/wounds/) |
+| Quick overview | [Quick Reference for Clinicians](QUICK_REFERENCE/FOR_CLINICIANS.md) |
 
 ---
 
