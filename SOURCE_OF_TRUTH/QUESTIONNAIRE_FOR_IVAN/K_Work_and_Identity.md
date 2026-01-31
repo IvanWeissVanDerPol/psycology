@@ -5,11 +5,11 @@
 **Draft Answer (Based on Voice Note Analysis):**
 > "I genuinely believe I'm way above every other guy... Full service maid butler with main character syndrome."
 >
-> **Option A (The Safe Zone):** Work is my safe zone. It's where the rules are clear: Input effort -> Output value -> Receive validation. The Engineer runs the show here. I solve problems before others even know they exist. If I'm useful, I'm safe.
+> **Option A (The Contrast Identity):** I define myself by being the opposite of "typical Paraguayan men" - they don't cook, I cook. They don't clean, I clean. They don't cuddle, I cuddle. No hygiene, no care, no respect. I do the opposite of all of this. It's not just about being useful; it's about being fundamentally different from (and better than) the cultural norm. If I'm the "full service maid butler," nobody can compare me to those "horrible heteros."
 >
-> **Option B (The Superiority Defense):** It's not just about safety; it's about proving I'm *better*. "Main character syndrome." I work hard to prove that I am indispensable. If I am the most competent person in the room, nobody can call me 'pesado'. I weaponize competence to silence my critics (internal and external).
+> **Option B (The Superiority Defense):** I genuinely believe I'm way above every other guy. "Main character syndrome." I work hard to prove I am indispensable. If I am the most competent, most caring, most domestic person in the room - if I cook and clean and cuddle and communicate - nobody can call me 'pesado'. I weaponize being "not like other men" to prove my value. Being handsome and middle-upper class helps, but it's the service that really sets me apart.
 >
-> **Option C (The Burden of Competence):** Sometimes I hate being the one who fixes everything. It's exhausting. But I don't know who I am if I'm not "The Guy Who Knows Tech."
+> **Option C (The Full Service Trap):** I am "way above every other guy... Full service maid butler." But it's exhausting being the one who does everything - cooking, cleaning, caring, communicating. Sometimes I hate being "The Guy Who Does It All." But I don't know who I am if I'm not fundamentally different from (and better than) every other man in Paraguay. The identity depends on the contrast.
 
 1. You co-founded an AI consultancy startup with your sister Kyrian. How does The Engineer show up at work?
    **Draft Answer:** He shows up as the hyper-competent problem solver. He anticipates bottlenecks. He automates the boring stuff. He ensures nothing breaks so nobody has a reason to be mad.
