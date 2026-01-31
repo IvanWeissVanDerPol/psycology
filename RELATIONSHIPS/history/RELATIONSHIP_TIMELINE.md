@@ -105,6 +105,100 @@
 
 ---
 
+### Alex 🌙 (January 2026) - NEW
+
+| Aspect | Details |
+|--------|---------|
+| **How They Met** | Recent connection (exact context unknown) |
+| **Dynamic** | Physical/romantic with explicit consent culture |
+| **Duration** | Very new (single interaction analyzed) |
+| **Key Features** | HIV status disclosure, "uwu" communication, aftercare |
+
+**What Makes This Different:**
+
+| Element | Evidence |
+|---------|----------|
+| Proactive HIV Disclosure | "Ya estoy 3 meses en Pep / Debería estar U=U" |
+| Explicit Consent | "Consent is hot he'i" |
+| Vulnerable Expression | "me encantó sentir como me estiras el pelo" |
+| Growth Goals | "practicar más pedir que quiero" (on year's goal list) |
+| Absence of Fixer | No service-offering, no deflection |
+| Permission Structure | "uwu" used throughout (6+ times) |
+
+**Clinical Significance:**
+- **Healthiest communication sample** in entire repository
+- Demonstrates evolution from Laura relationship patterns
+- Proactive transparency about HIV status (major identity integration)
+- Direct needs expression without self-deprecation
+- Explicit consent negotiation (breakthrough)
+
+---
+
+### Sarah (January 2026) - NEW
+
+| Aspect | Details |
+|--------|---------|
+| **How They Met** | Somosgay health services connection |
+| **Dynamic** | Kink/FWB with health advocacy component |
+| **Duration** | New (2 days analyzed, 738 files, 252 audio) |
+| **Key Features** | Reciprocal kink, drug-enhanced intimacy, explicit negotiation |
+
+**Volume Analysis:**
+- 738 total files in 2 days (369/day average)
+- 252 audio files (requires transcription)
+- Highest intensity relationship in dataset
+
+**What Makes This Different:**
+
+| Element | Evidence |
+|---------|----------|
+| Health Advocacy | Connected Sarah to HIV testing at Somosgay |
+| Reciprocal Kink | Both parties initiating (pegging, sounding) |
+| Explicit Consent | Detailed sounding/pegging negotiation |
+| Drug Integration | MDMA, cannabis, mushrooms for intimacy |
+| Absence of The Fixer | Help is health-specific, not life management |
+| Reciprocity | "Hoy me masturbe pensando en cómo me lamías" (Sarah initiates) |
+
+**Clinical Significance:**
+- Modified Fixer pattern (health advocacy vs. emotional labor)
+- Reciprocal pleasure (contrast to one-sided Laura dynamic)
+- Most explicit consent negotiation in dataset
+- High-risk activities (sounding, MDMA) require harm reduction focus
+- Shows capability for mutual sexual relationships
+
+---
+
+## January 2026 Meta-Analysis
+
+### Evolution from Previous Patterns
+
+| Pattern | Before (Laura) | After (Alex/Sarah) |
+|---------|----------------|-------------------|
+| HIV Disclosure | Unknown/avoided | Proactive, educational, unashamed |
+| Consent | Assumed/unspoken | Explicit, positive, detailed |
+| Needs Expression | Suppressed/explosive | Direct, immediate, vulnerable |
+| The Fixer | Depleting service | Modified (health advocacy) or ABSENT |
+| Self-Deprecation | Constant | **ABSENT** |
+| Reciprocity | One-sided | Mutual pleasure, mutual initiation |
+
+### Breakthrough Indicators
+
+1. **Identity Integration:** HIV status disclosed proactively (not shameful secret)
+2. **Communication Evolution:** From silent suffering to explicit negotiation
+3. **Self-Worth:** Asking for pleasure without apology
+4. **Help Pattern Modification:** Channeling helper tendency into health advocacy
+5. **Consent Culture:** From assumption to enthusiastic explicit agreement
+
+### Risk Factors to Monitor
+
+1. **Intensity:** 369 files/day suggests potential for burnout
+2. **Substance Use:** MDMA + sexual activity requires harm reduction
+3. **High-Risk Kink:** Sounding carries infection/trauma risks
+4. **Rapid Escalation:** NRE may mask long-term compatibility
+5. **Pattern Sustainability:** Can explicit communication last as relationships mature?
+
+---
+
 ## Patterns Across Relationships
 
 ### Relationship Initiation
