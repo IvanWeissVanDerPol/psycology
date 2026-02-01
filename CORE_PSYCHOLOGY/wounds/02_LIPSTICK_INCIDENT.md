@@ -146,5 +146,5 @@ Not to tear down ALL firewalls (some may be adaptive), but to:
 
 - [The Firewall Defense](../defense_mechanisms/THE_FIREWALL.md)
 - [The Mask Defense](../defense_mechanisms/THE_MASK.md)
-- [Mother: "The Unpredictable Manager"](./03_MOTHER_DYNAMIC.md)
-- [HIV Disclosure Analysis](../../REPORTS/session_notes/)
+- [Mother: "The Unpredictable Manager"](./03_PARENTAL_DYNAMICS.md)
+- [HIV Integration](../NEW_INSIGHTS_JANUARY_2026.md)

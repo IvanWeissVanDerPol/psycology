@@ -212,7 +212,7 @@ These numbers reflect how central touch/physical connection is to Ivan's psychol
 ## Related Documents
 
 - [The Permission Structure (Kink)](../../KINK_AND_INTIMACY/permission_structures/)
-- [Aftercare Needs](../../KINK_AND_INTIMACY/preferences/AFTERCARE.md)
+- [Aftercare Needs](../../KINK_AND_INTIMACY/preferences/COMPLETE_PREFERENCES.md)
 - [The Nico/Nyx Breakthrough](../../RELATIONSHIPS/history/)
 - [Treatment Goals](../../TREATMENT/goals/)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Full breakup processing quotes

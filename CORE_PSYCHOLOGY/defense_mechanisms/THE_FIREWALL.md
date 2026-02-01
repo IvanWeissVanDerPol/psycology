@@ -177,4 +177,4 @@ Not to tear down ALL firewalls (some may still be adaptive), but to:
 - [Core Wound: Lipstick Incident](../wounds/02_LIPSTICK_INCIDENT.md)
 - [Core Wound: Mother Dynamic](../wounds/03_PARENTAL_DYNAMICS.md)
 - [The Mask Defense](./THE_MASK.md)
-- [HIV Disclosure Analysis](../../REPORTS/session_notes/)
+- [HIV Integration](../../SOURCE_OF_TRUTH/NEW_INSIGHTS_JANUARY_2026.md)

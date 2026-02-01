@@ -136,7 +136,7 @@ Ivan's healing path may involve recognizing that The Fixer is a STRATEGY, not an
 
 - [Master Profile](../../SOURCE_OF_TRUTH/MASTER_PROFILE.md) - Complete psychological overview
 - [The Fixer Defense Mechanism](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
-- [Questionnaire Section A](../../SOURCE_OF_TRUTH/QUESTIONNAIRE_FOR_IVAN/A_Validation_of_Identified_Patterns.md)
+- [Questionnaire Section A](../../SOURCE_OF_TRUTH/ARCHIVE_QUESTIONNAIRE_V1/A_Validation_of_Identified_Patterns.md)
 - [Other Relationship Profiles](./README.md)
 
 ---
