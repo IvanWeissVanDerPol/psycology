@@ -235,7 +235,7 @@ Ivan can:
 
 All of this is possible BECAUSE of the kink framing, "uwu" softening, and Nico's explicit welcoming of it.
 
-### 2. The Fistula Incident Contrast
+### 2. The Medical Crises Contrast
 
 Laura: Sick, in pain, "gave me absolutely nothing"
 Nico: "me re subió los ánimos los cuddles y las cuerdas"

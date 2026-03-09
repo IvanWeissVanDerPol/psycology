@@ -121,7 +121,7 @@ Unlike with Laura/Magali, this helping:
 
 **Contrast with Laura Relationship:**
 - Sarah: "Hoy me masturbe pensando en cómo me lamías" (active desire)
-- Laura (Fistula Incident): Absent when Ivan needed care
+- Laura (Medical Crises): Absent when Ivan needed care
 
 ---
 
@@ -313,7 +313,7 @@ Unlike with Laura/Magali, this helping:
 ### On Reciprocity
 > "Hoy me masturbe cuando me desperté pensando en cómo me lamías"
 
-**Interpretation:** Sarah actively desires Ivan (contrast to Laura's absence during Fistula Incident)
+**Interpretation:** Sarah actively desires Ivan (contrast to Laura's absence during his medical crises)
 
 ### On Kink
 > "Plz con un strapon"

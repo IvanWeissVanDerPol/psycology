@@ -188,3 +188,6 @@ desktop.ini
 *.dll
 *.bat
 whatsapp transcripts/
+
+.tmp.drivedownload
+.tmp.driveupload

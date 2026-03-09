@@ -35,7 +35,7 @@ Analysis of 11 relationships revealed The Fixer operates on a spectrum, not unif
 
 ### Impact
 
-Prolonged suffering. Breaking point becomes crisis (fistula incident) rather than chosen exit.
+Prolonged suffering. Breaking point becomes crisis (fistula incident, following neglect during Dengue and broken foot) rather than chosen exit.
 
 ### Therapeutic Implication
 
@@ -128,7 +128,7 @@ This is a valid way to form relationships. But worth noting if it means he's not
 ### Evidence
 
 - Partners who don't meet emotional needs
-- Laura: gave nothing during fistula incident
+- Laura: absent during medical crises (Dengue, broken foot, fistula incident)
 - Pattern of needs going unmet
 
 ### Question
@@ -260,7 +260,7 @@ This quote shows:
 The voice notes reveal the mechanism:
 - Father's emotional absence taught Ivan this is "normal"
 - Mother's unpredictability taught him to adapt/walk on eggshells
-- Laura recreated BOTH patterns: emotionally absent when needed (fistula), unpredictable moods
+- Laura recreated BOTH patterns: emotionally absent when needed (medical crises: Dengue, broken foot, fistula), unpredictable moods
 
 Ivan isn't randomly selecting unavailable partners - he's recreating what feels familiar.
 

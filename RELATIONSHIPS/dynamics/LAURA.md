@@ -72,14 +72,14 @@ Ivan's service to Laura was comprehensive and constant:
 | **Cooking** | Ramen, onigiri, dinner preparations |
 | **Hosting** | At his house constantly, parties |
 | **Transportation** | Offers rides, covers Uber costs |
-| **Financial** | Pays for activities, vet bills, groceries |
+| **Financial** | Pays for activities, groceries |
 | **Emotional Labor** | Adapts house around her mood |
 | **Care Work** | Accommodating her family drama |
 
 **Key Evidence:**
 > "Cuando volví fui con Emilio y hablamos modo terapia por 3h" (Nov 24, 2023 - while she had fun with others)
 
-**Critical Pattern:** Even post-breakup context, the chat shows Ivan continued providing (covering vet costs for their cats from USA trip, June 2025).
+**Critical Pattern:** Ivan continued providing significant unbalanced service even post-breakup.
 
 ### The Mask - Moderate to High
 
@@ -99,22 +99,25 @@ Ivan's service to Laura was comprehensive and constant:
 
 ---
 
-## The Fistula Incident (Critical Wound)
+## The Medical Crises (Dengue, Broken Foot, Fistula)
 
-**Context:** Ivan had a medical condition (fistula) that required care. He was sick, in pain, and vulnerable.
+**Context:** During the relationship, Ivan went through three major medical crises where he was significantly vulnerable, in pain, and required care.
 
-**What Happened:**
-- Ivan cried alone
-- Laura "gave me absolutely nothing"
-- This became the breaking point
+**The Sequence of Neglect:**
+1. **Dengue:** Ivan fell severely ill with Dengue fever, a debilitating illness. Laura was largely absent and provided very little care.
+2. **Broken Foot:** When Ivan broke his foot, there was a glaring lack of physical comfort. While Ivan consistently gave her massages and physical affection throughout their relationship, Laura never massaged his broken foot, held him, or provided comfort for the pain during this period.
+3. **The Fistula Incident:** The breaking point. Ivan had a painful medical condition requiring care. He cried alone while sick and "my partner gave me absolutely nothing."
+
+**Ivan's Rationalization:**
+Ivan consistently excused this severe lack of caretaking because Laura's mother was also very sick and hospitalized during these periods. He rationalized that she was overwhelmed with her own family crisis, allowing him to bypass his own valid emotional needs and stay in the "fixer" role without demanding reciprocity.
 
 **From MASTER_PROFILE:**
-> "That's the image that hurts."
+> "That's the image that hurts." (referring to crying alone during the fistula)
 
 **Psychological Significance:**
-This incident crystallized Ivan's core wound - his needs being treated as a burden. It recreated the childhood experience of being "pesado" - having needs but receiving no care. The partner he had been serving extensively couldn't/wouldn't reciprocate when he was vulnerable.
+This sequence of incidents crystallized Ivan's core wound - his needs being treated as a burden. It recreated the childhood experience of being "pesado" - having needs but receiving no care. The partner he had been serving extensively (including constant massages and affection) couldn't/wouldn't reciprocate when he was vulnerable.
 
-**Pattern Confirmation:** Ivan's fear of being "too much" was confirmed when his legitimate medical crisis received nothing.
+**Pattern Confirmation:** Ivan's fear of being "too much" was confirmed when multiple legitimate medical crises received nothing.
 
 ---
 
@@ -259,9 +262,6 @@ This confirms the "Sexual > Emotional Fluency" pattern.
 **Ivan's Service:**
 > "Avisa cuando salgas y voy uwu" (waiting for her, ready to serve)
 > "Te gustaría que vaya cuando termine?" (always offering)
-
-**The Asymmetry in Action:**
-> After trip: "Sera que podes cubrir Los Gatos del vet? Mi money esta Todo en USD jsjsjaj" (June 2025 - even during relationship strain, still coordinating care)
 
 **Post-Breakup Clarity (from Defi chat):**
 > "Def me siento mejor emocionalmente también. Comparado a hace unos findes"

@@ -86,7 +86,7 @@
 | Relationship | Type | Fixer Level | Physical Touch | Explicit Permission? |
 |--------------|------|-------------|----------------|---------------------|
 | **Lujan** | High School GF | **ABSENT** | Yes (heads resting) | **YES** ("you can just rest") |
-| **Laura** | Adult Romantic | EXTREME | NO (fistula incident) | NO |
+| **Laura** | Adult Romantic | EXTREME | NO (medical crises: Dengue, foot, fistula) | NO |
 | **Nico** | Kink/D-s | MODERATE (balanced) | Yes (cuddles, shibari) | **YES** (D/s structure) |
 | **Lourdes** | FWB | HIGH | Yes (but felt one-way) | Partial |
 

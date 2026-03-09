@@ -72,7 +72,7 @@
 - Her mother was hospitalized
 - Pattern of staying too long
 
-**Breaking Point:** The fistula incident - crying alone while sick and she gave nothing.
+**Breaking Point:** The fistula incident - crying alone while sick and receiving no care, culminating a pattern of neglect during medical crises (Dengue, broken foot).
 
 > *"That's the image that hurts."*
 

@@ -145,7 +145,7 @@ Ivan explicitly states personal development goals:
 | Needs Expression | Suppressed until explosion | **Direct, immediate** |
 | Consent Discussion | Absent | **Explicit, positive** |
 | Self-Deprecation | Present | **Absent** |
-| Aftercare | Absent (Fistula Incident) | **Present, mutual** |
+| Aftercare | Absent (Medical Crises) | **Present, mutual** |
 | Permission Structures | Absent | **Active ("uwu")** |
 
 **Conclusion:** Shows significant evolution from previous romantic relationship patterns.

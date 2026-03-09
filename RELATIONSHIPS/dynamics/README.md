@@ -32,7 +32,7 @@
 
 | Profile | Duration | Key Finding | Link |
 |---------|----------|-------------|------|
-| **Laura** | 21 months | THE FISTULA INCIDENT - most significant wound evidence. Pattern recreation of mother's dynamic. | [LAURA.md](./LAURA.md) |
+| **Laura** | 21 months | MEDICAL CRISES - most significant wound evidence. Pattern recreation of mother's dynamic. | [LAURA.md](./LAURA.md) |
 | **Lujan** | High School | **HISTORICAL COUNTER-EVIDENCE**. Received care without earning it. "You can just rest." | [LUJAN.md](./LUJAN.md) |
 | **Rita** | ~2 months | Early romantic interest. Service (cooking) as primary love language. | [RITA.md](./RITA.md) |
 | **Alex 🌙** | Jan 2026+ | **BREAKTHROUGH COMMUNICATION**. Proactive HIV disclosure. Explicit consent. No Fixer activation. "Uwu" permission structure. Healthiest communication sample. | [ALEX.md](./ALEX.md) |
@@ -98,7 +98,7 @@
 ### 4. Sexual > Emotional Fluency
 - Can discuss explicit kink openly
 - Cannot say "I need care" directly
-- The Fistula Incident proves the gap
+- The Medical Crises (Dengue, Foot, Fistula) prove the gap
 
 ### 5. Balance IS Possible
 - Ara, Defi, Cookie show healthier patterns exist
@@ -129,7 +129,7 @@
 ## Critical Evidence by Profile
 
 ### For "Needs Being Burden" Wound
-- **Laura:** The Fistula Incident - "gave me absolutely nothing"
+- **Laura:** The Medical Crises - "gave me absolutely nothing"
 - **Ideline:** "Sorry if I'm too random"
 - **Jonatan:** Never asks for anything despite constant giving
 
